@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Tilina Alzaben.
-- 👀 I’m interested in machine learning, artificial intelligence, and data science!
-- 🌱 I’m currently learning the skills needed to thrive as a data scientist.
-- 💞️ I’m looking to collaborate on Big Data projects.
-- 📫 How to reach me: www.linkedin.com/in/talzaben
+👋 Hi, I’m Tilina Alzaben.
+
+I am a recent graduate from the University of Maryland, Baltimore County, with a Bachelor's of Science in statistics (and a minor in computer science). I have a passion for learning and sharing my knowledge with others in the field of machine learning.
