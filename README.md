@@ -1,4 +1,9 @@
-👋 Hi, I’m Tilina Alzaben
+### 👋 Hi, I’m Tilina Alzaben!
 
-I am a recent graduate from the University of Maryland, Baltimore County, with a Bachelor's of Science in statistics and a minor in computer science. I have a passion for learning and sharing my knowledge with others in the field of machine learning.
+- __EDUCATION__: The University of Maryland, Baltimore County
+    - Bachelor of Science in Statistics and Computer Science
+    
+- __INTERESTS__: Artificial Intelligence, Machine Learning/Data Science, Data Visualization
 
+- __RESUME__: [Click Here](https://ti-99.github.io/resume/Resume.html)! 
+    
