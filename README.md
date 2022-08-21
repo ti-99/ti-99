@@ -7,3 +7,6 @@
 
 - __RESUME__: [Click Here](https://ti-99.github.io/resume/Resume.html)! 
     
+    
+![Github stats](https://github-readme-stats.vercel.app/api?username=ti-99&theme=nord&show_icons=true&count_private=true)
+
