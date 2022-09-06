@@ -12,6 +12,3 @@
     - To check out my most recent project with Sewanee DataLab, click [here](https://github.com/sewaneedata/betterfi)
 
 - __MEDIUM__: I write articles that allow me to break down technical information to non-technical audiences, [click here](https://medium.com/@tilinaa1) to see
-
-- __KAGGLE__: To view other technical work, check out my [Kaggle](https://www.kaggle.com/tilinaalzaben/code) account
-
